@@ -1,3 +1,3 @@
 # onLine
 
-DXLIB_DIRの環境変数にDXライブラリを設定すること
+環境変数DXLIB_DIRにDXライブラリを設定すること
