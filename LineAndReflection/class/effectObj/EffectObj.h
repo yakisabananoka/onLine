@@ -1,0 +1,22 @@
+#pragma once
+#include <memory>
+#include <string>
+#include "EffectInfo.h"
+#include "../common/Vector2.h"
+
+class EffectObj
+{
+public:
+	EffectObj(std::unique_ptr<EffectInfo> effectInfo);
+	~EffectObj();
+
+	void Update(double delta);					//çXêV
+	void Draw(const Vector2Dbl& offset);		//ï`âÊ
+
+	bool IsAlive(void)const;					//ê∂Ç´ÇƒÇ¢ÇÈÇ©î€Ç©
+
+private:
+	std::unique_ptr<EffectInfo> effectInfo_;
+
+};
+

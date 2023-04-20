@@ -1,0 +1,20 @@
+{ "columns":21,
+ "image":"..\/image\/tileset_64x64.png",
+ "imageheight":2624,
+ "imagewidth":1344,
+ "margin":0,
+ "name":"tileset1",
+ "properties":[
+        {
+         "name":"mask",
+         "type":"file",
+         "value":"..\/image\/tileset_64x64_mask.png"
+        }],
+ "spacing":0,
+ "tilecount":861,
+ "tiledversion":"1.7.2",
+ "tileheight":64,
+ "tilewidth":64,
+ "type":"tileset",
+ "version":"1.6"
+}

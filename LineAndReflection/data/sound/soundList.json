@@ -1,0 +1,95 @@
+{
+  "soundList": [
+    {
+      "key": "title",
+      "path": "data/sound/BGM/title.mp3",
+      "type": "bgm",
+      "bufferNum": 1,
+      "currentPosition": 0
+    },
+    {
+      "key": "select",
+      "path": "data/sound/BGM/select.mp3",
+      "type": "bgm",
+      "bufferNum": 1,
+      "currentPosition": 0
+    },
+    {
+      "key": "tutorial",
+      "path": "data/sound/BGM/tutorial.mp3",
+      "type": "bgm",
+      "bufferNum": 1,
+      "currentPosition": 0
+    },
+    {
+      "key": "button_hover",
+      "path": "data/sound/SE/button_hover.mp3",
+      "type": "se",
+      "bufferNum": 3,
+      "currentPosition": 0
+    },
+    {
+      "key": "button_click",
+      "path": "data/sound/SE/button_click.mp3",
+      "type": "se",
+      "bufferNum": 3,
+      "currentPosition": 0
+    },
+    {
+      "key": "button_next",
+      "path": "data/sound/SE/button_next.mp3",
+      "type": "se",
+      "bufferNum": 3,
+      "currentPosition": 0
+    },
+    {
+      "key": "block",
+      "path": "data/sound/SE/block.mp3",
+      "type": "se",
+      "bufferNum": 5,
+      "currentPosition": 0
+    },
+    {
+      "key": "jump",
+      "path": "data/sound/SE/jump.mp3",
+      "type": "se",
+      "bufferNum": 3,
+      "currentPosition": 0
+    },
+    {
+      "key": "item",
+      "path": "data/sound/SE/item.mp3",
+      "type": "se",
+      "bufferNum": 3,
+      "currentPosition": 0
+    },
+    {
+      "key": "save",
+      "path": "data/sound/SE/save.mp3",
+      "type": "se",
+      "bufferNum": 3,
+      "currentPosition": 0
+    },
+    {
+      "key": "explosion",
+      "path": "data/sound/SE/explosion.mp3",
+      "type": "se",
+      "bufferNum": 5,
+      "currentPosition": 0
+    },
+    {
+      "key": "underground",
+      "path": "data/sound/BGM/underground.mp3",
+      "type": "bgm",
+      "bufferNum": 1,
+      "currentPosition": 0
+    },
+    {
+      "key": "result",
+      "path": "data/sound/BGM/result.mp3",
+      "type": "bgm",
+      "bufferNum": 1,
+      "currentPosition": 0
+    }
+  ]
+}

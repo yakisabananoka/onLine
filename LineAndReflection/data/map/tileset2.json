@@ -1,0 +1,14 @@
+{ "columns":8,
+ "image":"..\/image\/background_tileset_128x128.png",
+ "imageheight":256,
+ "imagewidth":1024,
+ "margin":0,
+ "name":"background_tileset_128x128",
+ "spacing":0,
+ "tilecount":16,
+ "tiledversion":"1.7.2",
+ "tileheight":128,
+ "tilewidth":128,
+ "type":"tileset",
+ "version":"1.6"
+}
